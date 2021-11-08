@@ -1,0 +1,83 @@
+.mountain{
+    height: 600px;
+    width: 100%;
+    border: transparent;
+    
+}
+.mountain img{
+    height: 600px;
+    width: 100%;
+}
+.Box{
+    height: 350px;
+    width: 70%;
+    /* border: 2px solid red; */
+    background-color: transparent;
+    display: flex;
+    position: relative;
+    bottom: 100px;
+    
+}  
+
+.box_1{
+    height: 350px;
+    width: 70%;
+    
+    background-color:#6da2d9;
+    font-style: italic;
+    color: white;
+    
+} 
+.box_2{
+    height: 350px;
+    width: 70%;
+    background-color: #ea6710;
+    margin-left: 20px;
+    font-style: italic;
+    color: white;
+}
+.box_3{
+    height: 350px;
+    width: 70%;
+    background-color: red;
+    margin-left: 20px;
+    font-style: italic;
+    color: white;
+} 
+.man-logo{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+.mountain-logo{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+}
+.bag-logo{
+    width: 50px;
+    height: 50px;
+    padding: 30px;
+
+}
+h2{
+    font-size: large;
+    text-align: center #6da2d9;
+}
+p{
+    text-align: justify;
+}
+.foote{
+    color: white;
+    background-color: black;
+    
+    height: 80px;
+    width: 100%;
+    
+}
+.foote p{
+    text-align: center;
+    padding: 30px;
+}
+
+
